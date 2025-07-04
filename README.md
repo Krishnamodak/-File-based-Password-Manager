@@ -1,1 +1,1 @@
-# -File-based-Password-Manager
+# File-based-Password-Manager
